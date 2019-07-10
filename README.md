@@ -1,6 +1,8 @@
 # chatStudio
 ## 效果图
-![]() 
+![](https://github.com/mylittleZ/ChatStudio/blob/master/src/image/22.jpg) 
+node记录离开上线人数
+![](https://github.com/mylittleZ/ChatStudio/blob/master/src/image/111.png) 
 ## 运行方式
 ```bash
 
