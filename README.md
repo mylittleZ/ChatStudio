@@ -3,8 +3,6 @@
 ![]() 
 ## 运行方式
 ```bash
-# clone项目到本地
-git clone https://github.com/windlany/happy-chat.git
 
 # 安装项目依赖
 yarn
