@@ -1,10 +1,11 @@
 # chatStudio
 ## 效果图
 ![](https://github.com/mylittleZ/ChatStudio/blob/master/src/image/22.jpg) 
+
 (拿qq截的图有点糊)
 
 
-### node记录离开上线人数
+## 后台打印离开or上线人数，同时在聊天界面中也会系统提示上线or离开用户
 
 ![](https://github.com/mylittleZ/ChatStudio/blob/master/src/image/111.png) 
 ## 运行方式
