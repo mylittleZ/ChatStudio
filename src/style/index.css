@@ -207,7 +207,7 @@ form {
     z-index: 3;
     background-color: #fff;
 }  
-.shaking {
+.shaking {     /* 窗口震动 */
     animation: run 0.2s infinite;
 }
 @keyframes run {
