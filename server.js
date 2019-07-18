@@ -9,7 +9,7 @@ var usersInfo = [];  // 存储用户姓名和头像
 
 app.use('/', express.static(__dirname + '/src'));
  
-
+//socket.io的实例io的connection事件
 io.on('connection', (socket)=> {
     io.emit('disUser', usersInfo);
 
