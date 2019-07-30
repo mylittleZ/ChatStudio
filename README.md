@@ -23,11 +23,14 @@ cd chatStudio
 node server.js
 ```
 ## 技术栈
-> jquery+node+express+socket.io
+> jquery+express+socket.io
 
 ## 实现功能
 （1）基于Express搭建聊天室后台，作为静态服务器
+
 （2）通过socket.io模块实现WebSocket通信
+
 （3）通过FileReader实现发送聊天图片的读取和展示
+
 （4）支持发送表情，自定义消息字体颜色，系统提示在线人员状态（进入/离开）
 
