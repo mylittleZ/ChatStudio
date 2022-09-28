@@ -1,36 +1,36 @@
 # chatStudio
-## 效果图
+## System Screenshot
 ![](https://github.com/mylittleZ/ChatStudio/blob/master/src/image/22.jpg) 
 
-(拿qq截的图有点糊)
 
 
-## 后台监听状态
-打印离开or上线人数，同时在聊天界面中也会系统提示上线or离开用户
+## Backend listening status
+Print the number of people who left or came online, and also prompt the system in the chat interface for users who came online or left
+
 
 ![](https://github.com/mylittleZ/ChatStudio/blob/master/src/image/111.png) 
 
-## 运行方式
+## Operation method
 ```bash
 
-# 安装项目依赖
+# Install project dependencies
 
-yarn 或者 npm install
+yarn or npm install
 
-# 运行以下命令打开浏览器的localhost:3000查看
+# Run the following command to open the browser's localhost:3000 to view
 
 cd chatStudio
 node server.js
 ```
-## 技术栈
+## Technology Stacks
 > jquery+express+socket.io
 
-## 实现功能
-（1）基于Express搭建聊天室后台，作为静态服务器
+## Realization of functions
+（1）Build a chat room backend based on Express as a static server
 
-（2）通过socket.io模块实现WebSocket通信
+（2）Implementing WebSocket communication via socket.io module
 
-（3）通过FileReader实现发送聊天图片的读取和展示
+（3）Read and display chat images sent via FileReader
 
-（4）支持发送表情，自定义消息字体颜色，系统提示在线人员状态（进入/离开）
+（4）Support for sending emoticons, custom message font colors, system prompts for online personnel status (enter/leave)
 
